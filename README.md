@@ -1,2 +1,12 @@
-# Motor-DOL-Direct-On-Line-Starter-
-A basic program to start up, and control a motor via ladder logic, using an industrial siemens module 
+# PLC Ladder Logic Design Portfolio
+
+## Overview
+A collection of programmable logic controller (PLC) ladder logic programs I built, to explore industrial automation principles, safety interlocks, and state machine design.
+
+## Focus Areas
+- Combinational and sequential logic structuraes.
+- Timers and counter applications 
+- Process control and fault-handling systems.
+
+## Status
+*Active learning repository — code blocks, simulation projects, and documentation will be added iteratively.*
