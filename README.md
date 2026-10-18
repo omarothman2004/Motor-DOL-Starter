@@ -1,4 +1,4 @@
-# PLC Ladder Logic Design Portfolio
+# PLC Ladder Logic Design 
 
 ## Overview
 A collection of programmable logic controller (PLC) ladder logic programs I built, to explore industrial automation principles, safety interlocks, and state machine design.
